@@ -26,3 +26,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Github
 https://github.com/MaryVDa/E-commerce-back-end
+
+## Credits
+starter code by: coding-boot-camp   
