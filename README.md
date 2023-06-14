@@ -1,8 +1,7 @@
-# E-commerce Back End 
-
-## Install
-
+# E-commerce Back End    
+    
 ## Description
+This app is a MySQL database backend for an e-commerce site. This app uses the latest technologies so a company can compete with other e-commerce sites.
 
 ## User story
 AS A manager at an internet retail company   
@@ -23,6 +22,26 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database   
 
 ## Video Demo
+
+## Install
+Please install these packages:    
+```npm i```   
+```npm i express```   
+```npm i mysql2```    
+```npm i dotenv```   
+```npm i sequelize```
+   
+## Usage
+Type the following commands into your terminal to root your mysql:
+```mysql -u root -p```   
+Enter password. Then type:   
+```SOURCE db/schema.sql```   
+Then quit:   
+```quit```   
+Next run the seed:   
+```npm run seed```   
+And start the application:   
+```npm start```   
 
 ## Github
 https://github.com/MaryVDa/E-commerce-back-end
