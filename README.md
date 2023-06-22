@@ -1,7 +1,7 @@
 # E-commerce Back End    
     
 ## Description
-This app is a MySQL database backend for an e-commerce site. This app uses the latest technologies so a company can compete with other e-commerce sites.
+This app is a MySQL database backend for an e-commerce site. This app uses the latest technologies so a company can compete with other e-commerce sites. Add categories, products, and tags using Insomnia.
 
 ## User story
 AS A manager at an internet retail company   
@@ -22,7 +22,8 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database   
 
 ## Video Demo
-(<../Homework Demos/E-Commerce Backend Tutorial.webm>)
+[E-Commerce Backend Tutorial.webm](https://github.com/MaryVDa/E-commerce-back-end/assets/122223756/fb4eb791-eeba-4f67-8fb0-9e3f6e1bcc5d)
+
 
 ## Install
 Please install these packages:    
